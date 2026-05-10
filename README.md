@@ -1,5 +1,7 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:8b5cf6,100:06b6d4&height=200&section=header&text=Zaidan%20Faiz&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Web%20%26%20Mobile%20Developer%20%7C%20Tech%20Student&descAlignY=55&descSize=18&animation=fadeIn)
+<div align="center">
+<img src="https://i.ibb.co.com/ywg3CcS/github-header-banner.png" alt="github header banner" width="100%"/>
+</div>
 
 <div align="center">
 
