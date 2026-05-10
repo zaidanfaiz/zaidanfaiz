@@ -1,16 +1,13 @@
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:8b5cf6,100:06b6d4&height=200&section=header&text=Zaidan%20Faiz&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Web%20%26%20Mobile%20Developer%20%7C%20Tech%20Student&descAlignY=55&descSize=18&animation=fadeIn)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f97316,50:8b5cf6,100:06b6d4&amp;height=200&amp;section=header&amp;text=Zaidan%20Faiz&amp;fontSize=45&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Web%20%26%20Mobile%20Developer%20%7C%20Tech%20Student&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Code.+Build.+Break.+Repeat.+%F0%9F%94%A5;Web+%26+Mobile+Dev+%7C+React+%2B+Kotlin;Python+%7C+TypeScript+%7C+Java;Still+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Code.+Build.+Break.+Repeat.+%F0%9F%94%A5;Web+%26+Mobile+Dev+%7C+React+%2B+Kotlin;Python+%7C+TypeScript+%7C+Java;Still+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&amp;logo=TikTok&amp;logoColor=white)](https://www.tiktok.com/@zaidan_pejuang_teknik)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white)](https://www.instagram.com/zfaiz.capital?igsh=MTlkY2Eyc2t1c2hicA==)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/zaidanfaiz)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@zaidan_pejuang_teknik)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zfaiz.capital?igsh=MTlkY2Eyc2t1c2hicA==)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaidanfaiz)
 
 </div>
 
@@ -36,26 +33,29 @@ zaidan = {
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white)
+**💻 Languages**
 
-### 🌐 Web &amp; Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🛠️ Tools &amp; Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white)
+**🌐 Web and Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**🛠️ Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -63,38 +63,26 @@ zaidan = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+[![Zaidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaidanfaiz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=8b5cf6&text_color=ffffff)](https://github.com/zaidanfaiz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanfaiz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=ffffff)](https://github.com/zaidanfaiz)
 
-<img src="https://github-readme-stats.vercel.app/api?username=zaidanfaiz&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=f97316&amp;icon_color=8b5cf6&amp;text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanfaiz&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=f97316&amp;text_color=ffffff" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidanfaiz&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;ring=f97316&amp;fire=8b5cf6&amp;currStreakLabel=06b6d4" width="500"/>
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaidanfaiz&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=8b5cf6&currStreakLabel=06b6d4)](https://github.com/zaidanfaiz)
 
 ---
 
 ## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zaidanfaiz&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" width="100%"/>
-</div>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=zaidanfaiz&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/zaidanfaiz)
 
 ---
 
 ## 📈 Activity Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidanfaiz&amp;bg_color=0d1117&amp;color=f97316&amp;line=8b5cf6&amp;point=06b6d4&amp;area=true&amp;hide_border=true" width="100%"/>
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaidanfaiz&bg_color=0d1117&color=f97316&line=8b5cf6&point=06b6d4&area=true&hide_border=true)](https://github.com/zaidanfaiz)
 
 ---
 
 ## 🌐 Find Me
-
-<div align="center">
 
 | Platform | Link |
 |----------|------|
@@ -102,14 +90,13 @@ zaidan = {
 | 📸 Instagram | [@zfaiz.capital](https://www.instagram.com/zfaiz.capital?igsh=MTlkY2Eyc2t1c2hicA==) |
 | 💻 GitHub | [zaidanfaiz](https://github.com/zaidanfaiz) |
 
-</div>
-
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=zaidanfaiz&amp;color=f97316&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,50:8b5cf6,100:f97316&amp;height=120&amp;section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=zaidanfaiz&color=f97316&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:f97316&height=120&section=footer)
