@@ -65,8 +65,9 @@ zaidan = {
 
 ## 📊 GitHub Stats
 
-[![Zaidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaidanfaiz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=8b5cf6&text_color=ffffff)](https://github.com/zaidanfaiz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanfaiz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=ffffff)](https://github.com/zaidanfaiz)
+![zaidanfaiz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=zaidanfaiz&theme=shadow)
+
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=zaidanfaiz&theme=shadow)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaidanfaiz&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=8b5cf6&currStreakLabel=06b6d4)](https://github.com/zaidanfaiz)
 
