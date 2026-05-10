@@ -1,9 +1,5 @@
-<!-- Header -->
 <div align="center">
 <img src="https://i.ibb.co.com/ywg3CcS/github-header-banner.png" alt="github header banner" width="100%"/>
-</div>
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Code.+Build.+Break.+Repeat.+%F0%9F%94%A5;Web+%26+Mobile+Dev+%7C+React+%2B+Kotlin;Python+%7C+TypeScript+%7C+Java;Still+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -66,7 +62,6 @@ zaidan = {
 ## 📊 GitHub Stats
 
 ![zaidanfaiz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=zaidanfaiz&theme=shadow)
-
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=zaidanfaiz&theme=shadow)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaidanfaiz&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=8b5cf6&currStreakLabel=06b6d4)](https://github.com/zaidanfaiz)
@@ -82,6 +77,13 @@ zaidan = {
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaidanfaiz&bg_color=0d1117&color=f97316&line=8b5cf6&point=06b6d4&area=true&hide_border=true)](https://github.com/zaidanfaiz)
+
+
+---
+
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/zaidanfaiz/zaidanfaiz/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
@@ -99,7 +101,6 @@ zaidan = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zaidanfaiz&color=f97316&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
-
-<!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:f97316&height=120&section=footer)
+
+</div>
