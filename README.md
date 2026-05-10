@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:8b5cf6,100:06b6d4&height=200&section=header&text=Zaidan%20Faiz&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Web%20%26%20Mobile%20Developer%20%7C%20Tech%20Student&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f97316,50:8b5cf6,100:06b6d4&amp;height=200&amp;section=header&amp;text=Zaidan%20Faiz&amp;fontSize=45&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Web%20%26%20Mobile%20Developer%20%7C%20Tech%20Student&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Code.+Build.+Break.+Repeat.+%F0%9F%94%A5;Web+%26+Mobile+Dev+%7C+React+%2B+Kotlin;Python+%7C+TypeScript+%7C+Java;Still+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Code.+Build.+Break.+Repeat.+%F0%9F%94%A5;Web+%26+Mobile+Dev+%7C+React+%2B+Kotlin;Python+%7C+TypeScript+%7C+Java;Still+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -65,12 +65,12 @@ zaidan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zaidanfaiz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=8b5cf6&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanfaiz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zaidanfaiz&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=f97316&amp;icon_color=8b5cf6&amp;text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanfaiz&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=f97316&amp;text_color=ffffff" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidanfaiz&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=8b5cf6&currStreakLabel=06b6d4" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidanfaiz&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;ring=f97316&amp;fire=8b5cf6&amp;currStreakLabel=06b6d4" width="500"/>
 
 </div>
 
@@ -79,7 +79,7 @@ zaidan = {
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zaidanfaiz&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zaidanfaiz&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" width="100%"/>
 </div>
 
 ---
@@ -87,7 +87,7 @@ zaidan = {
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidanfaiz&bg_color=0d1117&color=f97316&line=8b5cf6&point=06b6d4&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidanfaiz&amp;bg_color=0d1117&amp;color=f97316&amp;line=8b5cf6&amp;point=06b6d4&amp;area=true&amp;hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -110,6 +110,6 @@ zaidan = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zaidanfaiz&color=f97316&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:f97316&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,50:8b5cf6,100:f97316&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
