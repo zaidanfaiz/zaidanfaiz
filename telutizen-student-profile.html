@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TelUTizen Student Profile</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@600;700;800&family=Plus+Jakarta+Sans:wght@500;700&family=Space+Mono:wght@400;700&display=swap');
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden}body{font-family:'Plus Jakarta Sans',sans-serif;color:#001946;background:#7ec8ff}
+.page{position:relative;width:100vw;height:100vh;min-height:650px;overflow:hidden;background:linear-gradient(180deg,#56b9ff 0%,#a9dcff 100%)}
+.page:before{content:"";position:absolute;inset:0;background-image:radial-gradient(circle at 15% 20%,rgba(255,255,255,.85) 0 4%,transparent 4.5%),radial-gradient(circle at 72% 28%,rgba(255,255,255,.75) 0 6%,transparent 6.5%),radial-gradient(circle at 48% 90%,rgba(255,255,255,.6) 0 5%,transparent 5.5%);background-size:260px 220px,320px 250px,300px 240px;opacity:.6}
+.grid{position:absolute;inset:0;background-image:linear-gradient(rgba(0,50,125,.10) 1px,transparent 1px),linear-gradient(90deg,rgba(0,50,125,.10) 1px,transparent 1px);background-size:36px 36px;opacity:.35;mix-blend-mode:multiply}
+.ring{position:absolute;width:290px;height:290px;border:1px solid rgba(0,50,125,.35);top:12%;left:22%;border-radius:8px;transform:rotate(-3deg)}
+.ring2{position:absolute;width:210px;height:210px;border:1px solid rgba(0,50,125,.35);right:24%;bottom:14%;border-radius:8px;transform:rotate(6deg)}
+.ring2:before,.ring2:after{content:"";position:absolute;width:18px;height:18px;border-color:rgba(0,50,125,.55);border-style:solid}.ring2:before{left:-2px;top:-2px;border-width:1px 0 0 1px}.ring2:after{right:-2px;bottom:-2px;border-width:0 1px 1px 0}
+.sticker{position:absolute;z-index:5;font-family:'Space Mono',monospace;font-weight:700;letter-spacing:.13em;text-transform:uppercase;box-shadow:2px 4px 0 rgba(0,50,125,.2);padding:12px 18px}.class{top:8%;left:7%;background:#ffe16d;color:#221b00;transform:rotate(-6deg)}
+.wrap{position:relative;z-index:4;width:100%;height:100%;display:grid;grid-template-columns:1fr 1fr;gap:4vw;align-items:center;padding:6vh 6vw}
+.panel{position:relative;padding:42px;background:rgba(255,255,255,.60);border:1px solid rgba(255,255,255,.65);box-shadow:0 12px 40px rgba(0,50,125,.14);border-radius:22px;backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);overflow:hidden}
+.panel:after{content:"";position:absolute;right:0;top:0;width:90px;height:100%;border-left:1px solid rgba(0,50,125,.14)}.panel:before{content:"";position:absolute;left:0;right:0;top:54%;border-top:1px solid rgba(0,50,125,.14)}
+h1{font-family:'Epilogue',sans-serif;font-size:clamp(54px,5.1vw,86px);line-height:.9;margin:0 0 18px;color:#00327d;letter-spacing:-.045em}h1 span{display:block;color:transparent;-webkit-text-stroke:2px #00327d}.badge{display:inline-block;background:#00327d;color:#fff;padding:8px 12px;font:700 11px 'Space Mono',monospace;letter-spacing:.1em;text-transform:uppercase;margin-top:4px}.fields{display:grid;grid-template-columns:1fr 1fr;gap:23px 26px;margin-top:38px}.field label{display:block;font:700 11px 'Space Mono',monospace;letter-spacing:.09em;color:rgba(0,50,125,.7);text-transform:uppercase;margin-bottom:7px}.field .value{font-size:18px;font-weight:700;padding-bottom:9px;border-bottom:1px solid rgba(0,50,125,.18)}
+.photo-area{display:flex;justify-content:center;align-items:center;position:relative;height:100%}.polaroid{position:relative;width:min(72%,430px);padding:16px 16px 68px;background:#fff;box-shadow:7px 12px 28px rgba(0,25,70,.18);transform:rotate(3deg);border:1px solid rgba(195,198,213,.5)}.photo{position:relative;aspect-ratio:1/1;background:linear-gradient(135deg,rgba(154,225,255,.55),rgba(247,249,251,.96));overflow:hidden;display:flex;align-items:center;justify-content:center;color:rgba(0,50,125,.5);font:700 13px 'Space Mono',monospace;letter-spacing:.11em;text-transform:uppercase}.photo:before{content:"◯";position:absolute;font:700 92px 'Epilogue',sans-serif;opacity:.23}.caption{position:absolute;bottom:22px;left:22px;font:700 19px 'Epilogue',sans-serif;color:#00327d}.official{position:absolute;right:-22px;top:-15px;background:#ba1a1a;color:#fff;padding:9px 13px;font:700 11px 'Space Mono',monospace;letter-spacing:.12em;transform:rotate(12deg);box-shadow:2px 4px 0 rgba(0,50,125,.2)}.pkkmb{position:absolute;left:-25px;bottom:-20px;background:#00327d;color:#fff;padding:12px 18px;font:700 12px 'Space Mono',monospace;letter-spacing:.13em;transform:rotate(-12deg);box-shadow:2px 4px 0 rgba(0,50,125,.2)}
+.callout{position:absolute;left:-70px;top:50%;width:70px;border-top:1px solid #00327d}.callout:before{content:"";position:absolute;left:-6px;top:-6px;width:11px;height:11px;border:1px solid #00327d;border-radius:50%;background:transparent}
+@media(max-width:900px){.wrap{grid-template-columns:1fr;padding:7vh 5vw}.photo-area{min-height:38vh}.panel{padding:28px}.fields{grid-template-columns:1fr}.polaroid{width:min(62%,360px)}.ring,.ring2,.callout{display:none}}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="grid"></div><div class="ring"></div><div class="ring2"></div>
+  <div class="sticker class">Class of 2026</div>
+  <main class="wrap">
+    <section class="panel">
+      <h1>Student<span>Profile.</span></h1>
+      <div class="badge">Official Record</div>
+      <div class="fields">
+        <div class="field"><label>Nama Lengkap</label><div class="value">John Doe</div></div>
+        <div class="field"><label>NIM / No. Registrasi</label><div class="value">1301260000</div></div>
+        <div class="field"><label>Kelompok</label><div class="value">Gugus 04</div></div>
+        <div class="field"><label>Program Studi</label><div class="value">S1 Informatika</div></div>
+        <div class="field"><label>Fakultas</label><div class="value">Fakultas Informatika</div></div>
+        <div class="field"><label>Asal Daerah</label><div class="value">Bandung, Jawa Barat</div></div>
+      </div>
+    </section>
+    <section class="photo-area">
+      <div class="polaroid"><div class="photo">Insert Photo</div><div class="caption">TelUTizen 2026</div><div class="official">Official</div><div class="pkkmb">PKKMB</div></div>
+      <div class="callout"></div>
+    </section>
+  </main>
+</div>
+</body>
+</html>
