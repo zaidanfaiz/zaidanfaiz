@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="270" viewBox="0 0 960 270" role="img" aria-labelledby="title desc">
+<title id="title">Development workflow</title><desc id="desc">Animated workflow showing research, prototype, testing and iteration. It is not a GitHub activity statistic.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#101827"/></linearGradient><linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient><style>
+text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+.pulse{animation:pulse 4s ease-in-out infinite;transform-origin:center}
+.p2{animation-delay:1s}.p3{animation-delay:2s}.p4{animation-delay:3s}
+.line{stroke-dasharray:8 12;animation:flow 3s linear infinite}
+.cursor{animation:blink 1s steps(2,end) infinite}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes flow{to{stroke-dashoffset:-40}}
+@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.pulse,.line,.cursor{animation:none}}
+</style></defs>
+<rect width="960" height="270" rx="18" fill="url(#bg)" stroke="#24364a"/>
+<rect x="28" y="27" width="8" height="8" rx="4" fill="#22d3ee"/><text x="49" y="36" font-size="14" fill="#94a3b8" letter-spacing="2">ENGINEERING PROCESS</text>
+<text x="30" y="80" fill="#f1f5f9" font-size="26" font-weight="700">From exploration to working software<tspan class="cursor" fill="#22d3ee">_</tspan></text>
+<text x="30" y="109" fill="#94a3b8" font-size="15">Research, build, validate, improve.</text>
+<path d="M118 180H846" stroke="#385067" stroke-width="3" class="line"/>
+<g class="pulse"><rect x="30" y="146" width="190" height="73" rx="10" fill="#10293b" stroke="#22d3ee"/><text x="125" y="176" text-anchor="middle" fill="#67e8f9" font-size="16" font-weight="700">01  RESEARCH</text><text x="125" y="198" text-anchor="middle" fill="#94a3b8" font-size="12">Explore the problem</text></g>
+<g class="pulse p2"><rect x="267" y="146" width="190" height="73" rx="10" fill="#191d38" stroke="#8b5cf6"/><text x="362" y="176" text-anchor="middle" fill="#c4b5fd" font-size="16" font-weight="700">02  BUILD</text><text x="362" y="198" text-anchor="middle" fill="#94a3b8" font-size="12">Create a prototype</text></g>
+<g class="pulse p3"><rect x="504" y="146" width="190" height="73" rx="10" fill="#10293b" stroke="#22d3ee"/><text x="599" y="176" text-anchor="middle" fill="#67e8f9" font-size="16" font-weight="700">03  TEST</text><text x="599" y="198" text-anchor="middle" fill="#94a3b8" font-size="12">Measure and debug</text></g>
+<g class="pulse p4"><rect x="741" y="146" width="190" height="73" rx="10" fill="#191d38" stroke="#8b5cf6"/><text x="836" y="176" text-anchor="middle" fill="#c4b5fd" font-size="16" font-weight="700">04  ITERATE</text><text x="836" y="198" text-anchor="middle" fill="#94a3b8" font-size="12">Refine and publish</text></g>
+<text x="30" y="250" fill="#64748b" font-size="12">ZAIDAN FAIZ  /  DEVELOPMENT PRINCIPLES</text>
+</svg>
