@@ -1,106 +1,137 @@
 <div align="center">
-<img src="https://i.ibb.co.com/ywg3CcS/github-header-banner.png" alt="github header banner" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Code.+Build.+Break.+Repeat.+%F0%9F%94%A5;Web+%26+Mobile+Dev+%7C+React+%2B+Kotlin;Python+%7C+TypeScript+%7C+Java;Still+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:075985,100:06b6d4&text=ZAIDAN%20FAIZ&fontColor=E6FBFF&fontSize=52&fontAlignY=38&desc=Code.%20Game.%20Create.&descAlignY=60&descSize=18" width="100%" alt="Zaidan Faiz — Code. Game. Create."/>
 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@zaidan_pejuang_teknik)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zfaiz.capital?igsh=MTlkY2Eyc2t1c2hicA==)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaidanfaiz)
+<a href="https://github.com/zaidanfaiz"><img src="https://img.shields.io/badge/GitHub-zaidanfaiz-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://www.tiktok.com/@ZFDEV_ID"><img src="https://img.shields.io/badge/TikTok-%40ZFDEV__ID-0b1220?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+<a href="https://github.com/zaidanfaiz?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0891b2?style=for-the-badge&logo=github" alt="Explore projects"/></a>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Developer+%26+Tech+Explorer;Web+Apps+%7C+Android+%7C+Systems;Building+useful+things%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-```python
-zaidan = {
-    "name"       : "Zaidan Faiz",
-    "alias"      : "Zaidan • Dev",
-    "focus"      : ["Web Development", "Mobile Development", "AI (a little bit)"],
-    "stack"      : ["React", "TypeScript", "Python", "Kotlin", "Java"],
-    "status"     : "Tech Student who ships real stuff 🛠️",
-    "fun_fact"   : "I debug at 2AM and somehow it always works 🌙",
-    "life_motto" : "Code. Build. Break. Repeat."
-}
+I'm **Muhammad Zaidan Faiz** — a developer and tech enthusiast behind **ZFDEV_ID** and **ZDNCH**. I like experimenting across web development, Android, virtualization, and developer tools: from practical apps to low-level system projects.
+
+I learn by building, testing, debugging, and documenting what I discover. This profile is where those experiments and projects come together.
+
+```js
+const zaidan = {
+  alias: ["ZFDEV_ID", "ZDNCH"],
+  interests: ["Web Development", "Android", "Virtualization", "Systems"],
+  tools: ["JavaScript", "TypeScript", "Python", "Java", "Kotlin"],
+  motto: "Code. Game. Create."
+};
 ```
 
----
+## Featured Projects
 
-## 🚀 Tech Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zaidanfaiz/Instagram-LiquidGlass-LSPosed">Instagram Liquid Glass</a></h3>
+      Android <strong>LSPosed</strong> module that experiments with a floating, frosted-glass-inspired navigation UI for the official Instagram app. No repackaged Instagram APK.
+      <br/><br/>
+      <sub>Android · Kotlin/Java · LSPosed</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zaidanfaiz/Qemu-aplication">QEMU Application</a></h3>
+      An experimental native Android app for configuring and running QEMU virtual machines, with the goal of bringing VM workflows into a standalone APK.
+      <br/><br/>
+      <sub>Android · Java · QEMU · ARM64</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zaidanfaiz/ios-emulator">iOS Emulator Research</a></h3>
+      A research project exploring an iOS 16.5 userspace boot path in QEMU on ARM64. Kernel and loader boot are verified; full graphical boot is still being worked on.
+      <br/><br/>
+      <sub>QEMU · XNU · ARM64 · WSL2/Linux</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zaidanfaiz/cbt-project">ZDNCH Belajar CBT</a></h3>
+      A web-based CBT and personal practice platform featuring exam simulation, question management, explanations, flashcards, and vocabulary mini-games.
+      <br/><br/>
+      <sub>Node.js · Express · PostgreSQL · MathJax</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zaidanfaiz/tabungan">Tasha's Little Savings</a></h3>
+      A cozy, diary-style savings tracker for setting goals, logging daily deposits, and following progress through streaks, a calendar, and milestones.
+      <br/><br/>
+      <sub>Next.js · React · CSS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zaidanfaiz/artikel">Zaidan Journal</a></h3>
+      A Markdown-powered technology article site published with GitHub Pages, built to share tutorials, diagrams, and technical notes.
+      <br/><br/>
+      <sub>Markdown · JavaScript · GitHub Pages</sub>
+    </td>
+  </tr>
+</table>
+
+> **More experiments:** [Browse all repositories](https://github.com/zaidanfaiz?tab=repositories). Some projects are research prototypes, so their features and compatibility may still be under development.
+
+## Tech Stack
 
 <div align="center">
 
-**💻 Languages**
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**🌐 Web and Mobile**
+**Web & App Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express](https://img.shields.io/badge/Express-374151?style=for-the-badge&logo=express&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**🛠️ Tools**
+**Systems & Tools**
 
+![Linux](https://img.shields.io/badge/Linux- FCC624?style=for-the-badge&logo=linux&logoColor=111827)
+![QEMU](https://img.shields.io/badge/QEMU-7C3AED?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-![zaidanfaiz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=zaidanfaiz&theme=shadow)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=zaidanfaiz&theme=shadow)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaidanfaiz&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=8b5cf6&currStreakLabel=06b6d4)](https://github.com/zaidanfaiz)
-
----
-
-## 🏆 Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=zaidanfaiz&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/zaidanfaiz)
-
----
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaidanfaiz&bg_color=0d1117&color=f97316&line=8b5cf6&point=06b6d4&area=true&hide_border=true)](https://github.com/zaidanfaiz)
-
-
----
-
-## 🐍 Contribution Snake
-
-![snake animation](https://github.com/zaidanfaiz/zaidanfaiz/blob/output/github-contribution-grid-snake2.svg)
-
----
-
-## 🌐 Find Me
-
-| Platform | Link |
-|----------|------|
-| 🎵 TikTok | [@zaidan_pejuang_teknik](https://www.tiktok.com/@zaidan_pejuang_teknik) |
-| 📸 Instagram | [@zfaiz.capital](https://www.instagram.com/zfaiz.capital?igsh=MTlkY2Eyc2t1c2hicA==) |
-| 💻 GitHub | [zaidanfaiz](https://github.com/zaidanfaiz) |
-
----
+## GitHub Overview
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=zaidanfaiz&color=f97316&style=for-the-badge&label=PROFILE+VIEWS)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zaidanfaiz&show_icons=true&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=818cf8&text_color=e5e7eb" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanfaiz&layout=compact&hide_border=true&bg_color=0b1220&title_color=22d3ee&text_color=e5e7eb" alt="Most used languages"/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:f97316&height=120&section=footer)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zaidanfaiz&theme=transparent&hide_border=true&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=9CA3AF)](https://github.com/zaidanfaiz)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaidanfaiz&bg_color=0b1220&color=22d3ee&line=818cf8&point=e5e7eb&area=true&hide_border=true)](https://github.com/zaidanfaiz)
+
+</div>
+
+## Find Me Online
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github)](https://github.com/zaidanfaiz)
+[![TikTok](https://img.shields.io/badge/TikTok-%40ZFDEV__ID-111827?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@ZFDEV_ID)
+
+<br/>
+
+<sub>Built with curiosity, caffeine, and too many terminal tabs.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,100:050816" width="100%" alt="Footer"/>
 
 </div>
