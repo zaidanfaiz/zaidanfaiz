@@ -1,64 +1,76 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0e7490,75:6d28d9,100:020617&text=MUHAMMAD%20ZAIDAN%20FAIZ&fontColor=ffffff&fontSize=37&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Tech%20Explorer&descSize=17&descAlignY=60&animation=fadeIn" alt="Muhammad Zaidan Faiz animated banner" />
-
 <a href="https://github.com/zaidanfaiz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=65&lines=Hey%2C+I'm+Zaidan+%F0%9F%91%8B;Building+things+from+ideas+to+reality;Web+Development+%E2%80%A2+Android+%E2%80%A2+Systems;Virtualization+%26+Low-Level+Experiments;Code.+Debug.+Learn.+Repeat." alt="Animated introduction typing text" />
+  <img src="./assets/hero.svg" width="100%" alt="Animated neon banner — Zaidan Faiz, Developer / Builder / Explorer" />
+</a>
+
+<br />
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=22D3EE&background=00000000&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Turning+ideas+into+working+code+%F0%9F%9A%80;Web+%E2%80%A2+Android+%E2%80%A2+Systems;Build.+Break.+Learn.+Repeat.;Welcome+to+my+little+corner+of+GitHub!" alt="Animated typing introduction" />
 </a>
 
 <p>
-  <a href="https://github.com/zaidanfaiz"><img src="https://img.shields.io/badge/GitHub-zaidanfaiz-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/zaidanfaiz"><img src="https://img.shields.io/badge/GitHub-zaidanfaiz-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.instagram.com/zfaiiiz_/"><img src="https://img.shields.io/badge/Instagram-zfaiiiz__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.tiktok.com/@zaidan_pejuang_teknik"><img src="https://img.shields.io/badge/TikTok-zaidan__pejuang__teknik-111827?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.tiktok.com/@zaidan_pejuang_teknik"><img src="https://img.shields.io/badge/TikTok-Follow-111827?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://github.com/zaidanfaiz?tab=followers"><img src="https://img.shields.io/github/followers/zaidanfaiz?style=for-the-badge&label=Followers&color=7c3aed" alt="GitHub followers" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=zaidanfaiz&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile view counter" />
-<img src="https://img.shields.io/github/followers/zaidanfaiz?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers" />
+<sub>🇮🇩 Based in Indonesia · Developer & tech explorer · Learning by building</sub>
+
+<br /><br />
+
+<a href="#about-me">About</a> •
+<a href="#featured-projects">Projects</a> •
+<a href="#tech-stack">Stack</a> •
+<a href="#github-activity">Activity</a> •
+<a href="#connect">Connect</a>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-```ts
-const zaidan = {
-  name: "Muhammad Zaidan Faiz",
-  aliases: ["ZFDEV_ID", "ZDNCH"],
-  focus: ["Web", "Android", "Virtualization", "Systems"],
-  currentlyExploring: ["QEMU", "ARM64", "Linux", "UI Engineering"],
-  workflow: "Build → Break → Debug → Improve",
-  motto: "Code. Game. Create."
-};
-```
+I'm **Muhammad Zaidan Faiz** — also known as **ZFDEV_ID** and **ZDNCH**.
 
-I'm a developer and technology explorer who enjoys turning technical curiosity into hands-on projects. I work across **web applications, Android development, system experimentation, and virtualization**.
-
-I like understanding how things work under the hood, shipping prototypes, investigating failures, and documenting what I learn. Some projects are production-oriented; others are intentionally experimental.
+I enjoy turning unusual ideas into experiments, whether that means building web apps, customizing Android interfaces, or digging into emulators and low-level systems. I care about **working prototypes, practical learning, and documenting what actually happens**, including the bugs.
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2900&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=%3E+Experiment.+Learn.+Iterate.;%3E+Great+projects+start+with+curiosity.;%3E+The+debugger+is+part+of+the+journey." alt="Animated developer philosophy" />
-
+  <img src="./assets/terminal.svg" width="100%" alt="Animated developer terminal displaying my name and interests" />
 </div>
 
-## ⚡ Tech Universe
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🔭 Exploring</b><br/>
+      Android internals, QEMU virtualization, web platforms, and open-source tooling
+    </td>
+    <td valign="top" width="50%">
+      <b>⚡ How I work</b><br/>
+      Prototype → test → debug → improve → share
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>🧩 Interests</b><br/>
+      UI engineering, operating systems, automation, and software research
+    </td>
+    <td valign="top">
+      <b>🎯 Philosophy</b><br/>
+      Curiosity is useful when it becomes something you can build and test
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,c,react,nextjs,nodejs,html,css,tailwind&perline=6&theme=dark" alt="Programming languages and web technologies" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=androidstudio,linux,debian,git,github,githubactions,docker,vscode,postgres,figma,bash,cloudflare&perline=6&theme=dark" alt="Development tools and platforms" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1700&pause=600&color=22D3EE&center=true&vCenter=true&width=630&lines=Frontend+%3C%2F%3E+Backend;Android+%2B+Linux;Systems+%2B+Virtualization;Design+%2B+Engineering" alt="Animated technical specialties" />
-
+  <img src="./assets/status.svg" width="76%" alt="Animated always experimenting radar" />
 </div>
 
 ## 🚀 Featured Projects
+
+These are real projects and experiments from my repositories — some are actively evolving, and some are research prototypes.
 
 <table>
 <tr>
@@ -66,22 +78,22 @@ I like understanding how things work under the hood, shipping prototypes, invest
 
 ### 🪟 [Instagram Liquid Glass](https://github.com/zaidanfaiz/Instagram-LiquidGlass-LSPosed)
 
-Experimenting with **glass-style Android UI customization** through an LSPosed module for Instagram.
+An experimental **LSPosed module** exploring a glass-like interface and navigation changes inside Instagram for Android.
 
 `Android` `LSPosed` `UI Modding`
 
-<a href="https://github.com/zaidanfaiz/Instagram-LiquidGlass-LSPosed"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0891B2?style=flat-square&logo=github&logoColor=white" alt="Explore Instagram Liquid Glass" /></a>
+<a href="https://github.com/zaidanfaiz/Instagram-LiquidGlass-LSPosed"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View Instagram Liquid Glass repository" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ [QEMU Application](https://github.com/zaidanfaiz/Qemu-aplication)
+### 📱 [QEMU Application](https://github.com/zaidanfaiz/Qemu-aplication)
 
-An experimental native **Android QEMU frontend** exploring virtual machine setup, display and input modes.
+An experimental **native Android frontend for QEMU**, focused on managing virtual machine experiments from an app.
 
-`Android` `Java` `QEMU`
+`Android` `QEMU` `Virtualization`
 
-<a href="https://github.com/zaidanfaiz/Qemu-aplication"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Explore QEMU Application" /></a>
+<a href="https://github.com/zaidanfaiz/Qemu-aplication"><img src="https://img.shields.io/badge/View_Repository-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="View QEMU Application repository" /></a>
 
 </td>
 </tr>
@@ -90,94 +102,107 @@ An experimental native **Android QEMU frontend** exploring virtual machine setup
 
 ### 🍎 [iOS Emulator Research](https://github.com/zaidanfaiz/ios-emulator)
 
-Researching **iOS userspace and ARM64 virtualization** with QEMU. Full graphical boot remains experimental.
+Exploring **iOS userspace boot paths under QEMU/ARM64**. A research project — not a finished graphical iOS emulator.
 
-`ARM64` `QEMU` `Research`
+`ARM64` `QEMU` `Systems Research`
 
-<a href="https://github.com/zaidanfaiz/ios-emulator"><img src="https://img.shields.io/badge/EXPLORE_RESEARCH-0891B2?style=flat-square&logo=github&logoColor=white" alt="Explore iOS emulator research" /></a>
+<a href="https://github.com/zaidanfaiz/ios-emulator"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View iOS Emulator repository" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [ZDNCH Belajar CBT](https://github.com/zaidanfaiz/cbt-project)
+### 🧠 [ZDNCH Belajar CBT](https://github.com/zaidanfaiz/cbt-project)
 
-A web-based **computer-based testing platform** with practice questions, learning tools and exam simulations.
+A web-based **computer-based test and learning platform**, with practice features, explanations, and question management.
 
 `Node.js` `Express` `PostgreSQL`
 
-<a href="https://github.com/zaidanfaiz/cbt-project"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Explore CBT project" /></a>
+<a href="https://github.com/zaidanfaiz/cbt-project"><img src="https://img.shields.io/badge/View_Repository-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="View CBT Project repository" /></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### ✍️ [Zaidan Journal](https://github.com/zaidanfaiz/artikel)
+### 📚 [Zaidan Journal](https://github.com/zaidanfaiz/artikel)
 
-A Markdown-based technology journal for **tutorials, research notes and technical write-ups**.
+A Markdown-powered tech journal for tutorials, engineering notes, and experiments published using GitHub Pages.
 
 `Markdown` `JavaScript` `GitHub Pages`
 
-<a href="https://github.com/zaidanfaiz/artikel"><img src="https://img.shields.io/badge/READ_PROJECT-0891B2?style=flat-square&logo=github&logoColor=white" alt="Explore Zaidan Journal" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 More Experiments
-
-From prototypes and UI experiments to operating systems and low-level tinkering, there's always something to explore.
-
-**[Browse all repositories →](https://github.com/zaidanfaiz?tab=repositories)**
+<a href="https://github.com/zaidanfaiz/artikel"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View Zaidan Journal repository" /></a>
 
 </td>
 </tr>
 </table>
 
-## 📊 GitHub Analytics
+<div align="center">
+  <a href="https://github.com/zaidanfaiz?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-0b1220?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Explore all repositories" /></a>
+</div>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zaidanfaiz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=e5e7eb&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanfaiz&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=e5e7eb" alt="Most-used repository languages" />
+**Languages & frameworks**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,react,nextjs,nodejs,html,css&perline=10" alt="JavaScript, TypeScript, Python, Java, Kotlin, React, Next.js, Node.js, HTML and CSS icons" />
+
+**Platforms & tools**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,linux,git,github,githubactions,vscode,postgres,docker,bash&perline=9" alt="Android Studio, Linux, Git, GitHub, GitHub Actions, VS Code, PostgreSQL, Docker and Bash icons" />
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=zaidanfaiz&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
+<img src="https://img.shields.io/badge/QEMU-Virtualization-7C3AED?style=for-the-badge" alt="QEMU virtualization"/>
+<img src="https://img.shields.io/badge/LSPosed-Android_Modules-06B6D4?style=for-the-badge" alt="LSPosed Android modules"/>
+<img src="https://img.shields.io/badge/Open_Source-Experimentation-0F766E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open source experimentation"/>
 
-<br/>
+</div>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaidanfaiz&bg_color=0d1117&color=22d3ee&line=a78bfa&point=ffffff&area=true&area_color=0891b2&hide_border=true" alt="GitHub contribution activity graph" />
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zaidanfaiz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanfaiz&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" height="180" alt="Most used languages by repository" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=zaidanfaiz&theme=transparent&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" width="72%" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidanfaiz&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=67e8f9&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-*An animated journey across my GitHub contributions.*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidanfaiz/zaidanfaiz/output/github-contribution-grid-snake2-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidanfaiz/zaidanfaiz/output/github-contribution-grid-snake2.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/zaidanfaiz/zaidanfaiz/output/github-contribution-grid-snake2.svg" alt="Animated contribution snake (generated by GitHub Actions)" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidanfaiz/zaidanfaiz/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidanfaiz/zaidanfaiz/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/zaidanfaiz/zaidanfaiz/output/github-contribution-grid-snake.svg" alt="Animated snake moving through GitHub contributions" width="100%"/>
+  </picture>
+  <sub>Generated by GitHub Actions. The image appears after the first successful workflow run.</sub>
 </div>
 
-## 🌌 More Than Just Code
+## 🤝 Connect
 
 <div align="center">
 
-```text
-   IDEA  ──────►  PROTOTYPE  ──────►  TEST
-     ▲                                 │
-     └────────  LEARN ◄── DEBUG ◄─────┘
-```
+Interested in code, mobile experimentation, emulation, or collaborating on something new?
 
-<a href="https://github.com/zaidanfaiz?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&lines=Always+building.+Always+learning.;Explore+my+repositories+below+%E2%86%93;Let's+create+something+interesting." alt="Animated footer typing text" /></a>
+<a href="https://github.com/zaidanfaiz"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+<a href="https://www.instagram.com/zfaiiiz_/"><img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Connect on Instagram" /></a>
 
-**Thanks for visiting my corner of GitHub!**
+<br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,45:6d28d9,100:0891b2&animation=fadeIn" alt="Animated footer wave" />
+**Code. Game. Create.**
+
+<sub>Build things. Learn deeply. Keep experimenting.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:22d3ee,50:8b5cf6,100:081429" width="100%" alt="Neon wave footer" />
 
 </div>
