@@ -76,61 +76,46 @@ These are real projects and experiments from my repositories — some are active
 <tr>
 <td width="50%" valign="top">
 
-### 🪟 [Instagram Liquid Glass](https://github.com/zaidanfaiz/Instagram-LiquidGlass-LSPosed)
-
-An experimental **LSPosed module** exploring a glass-like interface and navigation changes inside Instagram for Android.
-
-`Android` `LSPosed` `UI Modding`
-
-<a href="https://github.com/zaidanfaiz/Instagram-LiquidGlass-LSPosed"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View Instagram Liquid Glass repository" /></a>
+<h3>🪟 <a href="https://github.com/zaidanfaiz/Instagram-LiquidGlass-LSPosed">Instagram Liquid Glass</a></h3>
+<p>An experimental <strong>LSPosed module</strong> exploring a glass-like interface and navigation changes inside Instagram for Android.</p>
+<p><code>Android</code> <code>LSPosed</code> <code>UI Modding</code></p>
+<p><a href="https://github.com/zaidanfaiz/Instagram-LiquidGlass-LSPosed"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View Instagram Liquid Glass repository" /></a></p>
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 [QEMU Application](https://github.com/zaidanfaiz/Qemu-aplication)
-
-An experimental **native Android frontend for QEMU**, focused on managing virtual machine experiments from an app.
-
-`Android` `QEMU` `Virtualization`
-
-<a href="https://github.com/zaidanfaiz/Qemu-aplication"><img src="https://img.shields.io/badge/View_Repository-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="View QEMU Application repository" /></a>
+<h3>📱 <a href="https://github.com/zaidanfaiz/Qemu-aplication">QEMU Application</a></h3>
+<p>An experimental <strong>native Android frontend for QEMU</strong>, focused on managing virtual machine experiments from an app.</p>
+<p><code>Android</code> <code>QEMU</code> <code>Virtualization</code></p>
+<p><a href="https://github.com/zaidanfaiz/Qemu-aplication"><img src="https://img.shields.io/badge/View_Repository-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="View QEMU Application repository" /></a></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🍎 [iOS Emulator Research](https://github.com/zaidanfaiz/ios-emulator)
-
-Exploring **iOS userspace boot paths under QEMU/ARM64**. A research project — not a finished graphical iOS emulator.
-
-`ARM64` `QEMU` `Systems Research`
-
-<a href="https://github.com/zaidanfaiz/ios-emulator"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View iOS Emulator repository" /></a>
+<h3>🍎 <a href="https://github.com/zaidanfaiz/ios-emulator">iOS Emulator Research</a></h3>
+<p>Exploring <strong>iOS userspace boot paths under QEMU/ARM64</strong>. A research project — not a finished graphical iOS emulator.</p>
+<p><code>ARM64</code> <code>QEMU</code> <code>Systems Research</code></p>
+<p><a href="https://github.com/zaidanfaiz/ios-emulator"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View iOS Emulator repository" /></a></p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [ZDNCH Belajar CBT](https://github.com/zaidanfaiz/cbt-project)
-
-A web-based **computer-based test and learning platform**, with practice features, explanations, and question management.
-
-`Node.js` `Express` `PostgreSQL`
-
-<a href="https://github.com/zaidanfaiz/cbt-project"><img src="https://img.shields.io/badge/View_Repository-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="View CBT Project repository" /></a>
+<h3>🧠 <a href="https://github.com/zaidanfaiz/cbt-project">ZDNCH Belajar CBT</a></h3>
+<p>A web-based <strong>computer-based test and learning platform</strong>, with practice features, explanations, and question management.</p>
+<p><code>Node.js</code> <code>Express</code> <code>PostgreSQL</code></p>
+<p><a href="https://github.com/zaidanfaiz/cbt-project"><img src="https://img.shields.io/badge/View_Repository-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="View CBT Project repository" /></a></p>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 📚 [Zaidan Journal](https://github.com/zaidanfaiz/artikel)
-
-A Markdown-powered tech journal for tutorials, engineering notes, and experiments published using GitHub Pages.
-
-`Markdown` `JavaScript` `GitHub Pages`
-
-<a href="https://github.com/zaidanfaiz/artikel"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View Zaidan Journal repository" /></a>
+<h3>📚 <a href="https://github.com/zaidanfaiz/artikel">Zaidan Journal</a></h3>
+<p>A Markdown-powered tech journal for tutorials, engineering notes, and experiments published using GitHub Pages.</p>
+<p><code>Markdown</code> <code>JavaScript</code> <code>GitHub Pages</code></p>
+<p><a href="https://github.com/zaidanfaiz/artikel"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View Zaidan Journal repository" /></a></p>
 
 </td>
 </tr>
