@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://github.com/zaidanfaiz">
-  <img src="./assets/hero.svg" width="100%" alt="Animated neon banner — Zaidan Faiz, Developer / Builder / Explorer" />
+  <img src="./assets/hero.svg" width="100%" alt="Animated neon banner | Zaidan Faiz, Developer / Builder / Explorer" />
 </a>
 
 <br />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=22D3EE&background=00000000&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Turning+ideas+into+working+code+%F0%9F%9A%80;Web+%E2%80%A2+Android+%E2%80%A2+Systems;Build.+Break.+Learn.+Repeat.;Welcome+to+my+little+corner+of+GitHub!" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=22D3EE&background=00000000&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Turning+ideas+into+working+software;Web+%E2%80%A2+Android+%E2%80%A2+Systems;Build.+Break.+Learn.+Repeat.;Research.+Build.+Test.+Iterate." alt="Animated typing introduction" />
 </a>
 
 <p>
@@ -17,7 +17,7 @@
   <a href="https://github.com/zaidanfaiz?tab=followers"><img src="https://img.shields.io/github/followers/zaidanfaiz?style=for-the-badge&label=Followers&color=7c3aed" alt="GitHub followers" /></a>
 </p>
 
-<sub>🇮🇩 Based in Indonesia · Developer & tech explorer · Learning by building</sub>
+<sub>Based in Indonesia | Developer and technology explorer</sub>
 
 <br /><br />
 
@@ -31,9 +31,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm **Muhammad Zaidan Faiz** — also known as **ZFDEV_ID** and **ZDNCH**.
+I'm **Muhammad Zaidan Faiz** | also known as **ZFDEV_ID** and **ZDNCH**.
 
 I enjoy turning unusual ideas into experiments, whether that means building web apps, customizing Android interfaces, or digging into emulators and low-level systems. I care about **working prototypes, practical learning, and documenting what actually happens**, including the bugs.
 
@@ -44,21 +44,21 @@ I enjoy turning unusual ideas into experiments, whether that means building web 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <b>🔭 Exploring</b><br/>
+      <b>Exploring</b><br/>
       Android internals, QEMU virtualization, web platforms, and open-source tooling
     </td>
     <td valign="top" width="50%">
-      <b>⚡ How I work</b><br/>
+      <b>How I work</b><br/>
       Prototype → test → debug → improve → share
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <b>🧩 Interests</b><br/>
+      <b>Interests</b><br/>
       UI engineering, operating systems, automation, and software research
     </td>
     <td valign="top">
-      <b>🎯 Philosophy</b><br/>
+      <b>Philosophy</b><br/>
       Curiosity is useful when it becomes something you can build and test
     </td>
   </tr>
@@ -68,15 +68,15 @@ I enjoy turning unusual ideas into experiments, whether that means building web 
   <img src="./assets/status.svg" width="76%" alt="Animated always experimenting radar" />
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-These are real projects and experiments from my repositories — some are actively evolving, and some are research prototypes.
+These are real projects and experiments from my repositories | some are actively evolving, and some are research prototypes.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🪟 <a href="https://github.com/zaidanfaiz/Instagram-LiquidGlass-LSPosed">Instagram Liquid Glass</a></h3>
+<h3><a href="https://github.com/zaidanfaiz/Instagram-LiquidGlass-LSPosed">Instagram Liquid Glass</a></h3>
 <p>An experimental <strong>LSPosed module</strong> exploring a glass-like interface and navigation changes inside Instagram for Android.</p>
 <p><code>Android</code> <code>LSPosed</code> <code>UI Modding</code></p>
 <p><a href="https://github.com/zaidanfaiz/Instagram-LiquidGlass-LSPosed"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View Instagram Liquid Glass repository" /></a></p>
@@ -84,7 +84,7 @@ These are real projects and experiments from my repositories — some are active
 </td>
 <td width="50%" valign="top">
 
-<h3>📱 <a href="https://github.com/zaidanfaiz/Qemu-aplication">QEMU Application</a></h3>
+<h3><a href="https://github.com/zaidanfaiz/Qemu-aplication">QEMU Application</a></h3>
 <p>An experimental <strong>native Android frontend for QEMU</strong>, focused on managing virtual machine experiments from an app.</p>
 <p><code>Android</code> <code>QEMU</code> <code>Virtualization</code></p>
 <p><a href="https://github.com/zaidanfaiz/Qemu-aplication"><img src="https://img.shields.io/badge/View_Repository-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="View QEMU Application repository" /></a></p>
@@ -94,15 +94,15 @@ These are real projects and experiments from my repositories — some are active
 <tr>
 <td width="50%" valign="top">
 
-<h3>🍎 <a href="https://github.com/zaidanfaiz/ios-emulator">iOS Emulator Research</a></h3>
-<p>Exploring <strong>iOS userspace boot paths under QEMU/ARM64</strong>. A research project — not a finished graphical iOS emulator.</p>
+<h3><a href="https://github.com/zaidanfaiz/ios-emulator">iOS Emulator Research</a></h3>
+<p>Exploring <strong>iOS userspace boot paths under QEMU/ARM64</strong>. A research project | not a finished graphical iOS emulator.</p>
 <p><code>ARM64</code> <code>QEMU</code> <code>Systems Research</code></p>
 <p><a href="https://github.com/zaidanfaiz/ios-emulator"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View iOS Emulator repository" /></a></p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🧠 <a href="https://github.com/zaidanfaiz/cbt-project">ZDNCH Belajar CBT</a></h3>
+<h3><a href="https://github.com/zaidanfaiz/cbt-project">ZDNCH Belajar CBT</a></h3>
 <p>A web-based <strong>computer-based test and learning platform</strong>, with practice features, explanations, and question management.</p>
 <p><code>Node.js</code> <code>Express</code> <code>PostgreSQL</code></p>
 <p><a href="https://github.com/zaidanfaiz/cbt-project"><img src="https://img.shields.io/badge/View_Repository-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="View CBT Project repository" /></a></p>
@@ -112,7 +112,7 @@ These are real projects and experiments from my repositories — some are active
 <tr>
 <td colspan="2" valign="top">
 
-<h3>📚 <a href="https://github.com/zaidanfaiz/artikel">Zaidan Journal</a></h3>
+<h3><a href="https://github.com/zaidanfaiz/artikel">Zaidan Journal</a></h3>
 <p>A Markdown-powered tech journal for tutorials, engineering notes, and experiments published using GitHub Pages.</p>
 <p><code>Markdown</code> <code>JavaScript</code> <code>GitHub Pages</code></p>
 <p><a href="https://github.com/zaidanfaiz/artikel"><img src="https://img.shields.io/badge/View_Repository-22d3ee?style=flat-square&logo=github&logoColor=0b1220" alt="View Zaidan Journal repository" /></a></p>
@@ -125,7 +125,7 @@ These are real projects and experiments from my repositories — some are active
   <a href="https://github.com/zaidanfaiz?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-0b1220?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Explore all repositories" /></a>
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -145,24 +145,17 @@ These are real projects and experiments from my repositories — some are active
 
 </div>
 
-## 📊 GitHub Activity
+## Engineering Process
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zaidanfaiz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanfaiz&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" height="180" alt="Most used languages by repository" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=zaidanfaiz&theme=transparent&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" width="72%" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidanfaiz&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=67e8f9&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
-
+  <img src="./assets/workflow.svg" width="100%" alt="Animated development process from research to iteration" />
 </div>
 
-## 🐍 Contribution Snake
+My work spans UI engineering, Android tooling, and virtualization. I focus on reproducible experiments and documenting actual results instead of showcasing unverified metrics.
+
+**[Explore my public repositories](https://github.com/zaidanfaiz?tab=repositories)**
+
+## Contribution History
 
 <div align="center">
   <picture>
@@ -170,10 +163,10 @@ These are real projects and experiments from my repositories — some are active
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidanfaiz/zaidanfaiz/output/github-contribution-grid-snake.svg"/>
     <img src="https://raw.githubusercontent.com/zaidanfaiz/zaidanfaiz/output/github-contribution-grid-snake.svg" alt="Animated snake moving through GitHub contributions" width="100%"/>
   </picture>
-  <sub>Generated by GitHub Actions. The image appears after the first successful workflow run.</sub>
+  <sub>Contribution animation generated from GitHub activity by the repository workflow.</sub>
 </div>
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
